@@ -287,7 +287,8 @@ streamlit run app.py
 ```
 
 ---
+![Tampilan Aplikasi Streamlit](./streamlitapp.png)
 
 **Disusun oleh:**
-- Nama Anggota 1 (NIM)
-- Nama Anggota 2 (NIM)
+- Muhammad Fakhriy Daffa Delyan (2330511019)
+- Muhammad Fakhri Fauzi (2330511019)
