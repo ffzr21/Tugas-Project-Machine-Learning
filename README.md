@@ -288,7 +288,7 @@ streamlit run app.py
 
 ---
 ![Tampilan Aplikasi Streamlit](./streamlitapp.png)
-
+![Tampilan Aplikasi Streamlit](./streamlitapp1.png)
 **Disusun oleh:**
 - Muhammad Fakhriy Daffa Delyan (2330511019)
 - Muhammad Fakhri Fauzi (2330511019)
