@@ -63,7 +63,7 @@ Untuk mencapai tujuan di atas, dilakukan pendekatan berikut:
 
 ## Pemahaman Data
 
-Dataset yang digunakan berisi **1275 baris data** laptop dengan **11 kolom** (10
+Dataset yang digunakan berisi **1275 data** laptop dengan **11 kolom** (10
 fitur dan 1 variabel target). Dataset disertakan pada folder `data/laptop_data.csv`
 dalam repositori ini. Sumber referensi dataset serupa dapat ditemukan pada:
 [Laptop Price Prediction Dataset - Kaggle](https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction)
