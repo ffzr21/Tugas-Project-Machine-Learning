@@ -51,7 +51,7 @@ Tujuan dari proyek ini adalah:
 Untuk mencapai tujuan di atas, dilakukan pendekatan berikut:
 
 1. **Membangun beberapa model baseline** menggunakan algoritma yang telah dipelajari
-   di kelas, yaitu **Linear Regression** dan **Random Forest Regressor**, lalu
+, yaitu **Linear Regression** dan **Random Forest Regressor**, lalu
    mengevaluasi performa masing-masing menggunakan metrik MAE, RMSE, dan R².
 2. **Eksplorasi mandiri (poin plus):** mengimplementasikan algoritma **XGBoost
    Regressor (Extreme Gradient Boosting)** yang belum diajarkan di kelas, sebagai
