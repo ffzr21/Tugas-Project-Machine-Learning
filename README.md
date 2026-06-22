@@ -23,7 +23,7 @@ metodologi **CRISP-DM (Cross-Industry Standard Process for Data Mining)**.
 
 ## Business Understanding
 
-### Problem Statements
+### Pernyataan Masalah
 
 Berdasarkan latar belakang di atas, permasalahan yang akan diselesaikan dalam proyek
 ini adalah:
@@ -34,7 +34,7 @@ ini adalah:
 - Bagaimana membangun model machine learning yang dapat memprediksi harga laptop
   berdasarkan spesifikasinya dengan tingkat kesalahan (error) yang rendah?
 
-### Goals
+### Tujuan
 
 Tujuan dari proyek ini adalah:
 
@@ -46,7 +46,7 @@ Tujuan dari proyek ini adalah:
   performa terbaik (error terkecil dan R² tertinggi), kemudian melakukan deployment
   model tersebut.
 
-### Solution Statements
+### Pernyataan Solusi
 
 Untuk mencapai tujuan di atas, dilakukan pendekatan berikut:
 
@@ -61,7 +61,7 @@ Untuk mencapai tujuan di atas, dilakukan pendekatan berikut:
    dipilih sebagai **model final**, kemudian disimpan dan di-deploy menggunakan
    **Streamlit** agar dapat digunakan secara interaktif oleh pengguna.
 
-## Data Understanding
+## Pemahaman Data
 
 Dataset yang digunakan berisi **1275 baris data** laptop dengan **11 kolom** (10
 fitur dan 1 variabel target). Dataset disertakan pada folder `data/laptop_data.csv`
