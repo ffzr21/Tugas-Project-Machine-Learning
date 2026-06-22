@@ -12,7 +12,7 @@ Bagi konsumen, memahami hubungan antara spesifikasi dan harga dapat membantu men
 apakah suatu laptop dijual dengan harga yang wajar. Bagi pelaku bisnis (retailer atau
 e-commerce), kemampuan memprediksi harga berdasarkan spesifikasi dapat digunakan untuk
 menentukan strategi penetapan harga (pricing strategy) yang kompetitif maupun untuk
-mendeteksi anomali harga pada katalog produk.
+mendeteksi harga tidak sesuai pada katalog produk.
 
 Oleh karena itu, proyek ini bertujuan membangun model **machine learning regresi**
 yang dapat memprediksi harga laptop berdasarkan spesifikasinya, dengan menerapkan
