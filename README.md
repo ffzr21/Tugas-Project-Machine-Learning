@@ -53,7 +53,7 @@ Untuk mencapai tujuan di atas, dilakukan pendekatan berikut:
 1. **Membangun beberapa model baseline** menggunakan algoritma yang telah dipelajari
 , yaitu **Linear Regression** dan **Random Forest Regressor**, lalu
    mengevaluasi performa masing-masing menggunakan metrik MAE, RMSE, dan R².
-2. **Eksplorasi mandiri (poin plus):** mengimplementasikan algoritma **XGBoost
+2. **Eksplorasi mandiri:** mengimplementasikan algoritma **XGBoost
    Regressor (Extreme Gradient Boosting)** yang belum diajarkan di kelas, sebagai
    pembanding terhadap model baseline. Algoritma ini dipilih karena dikenal memiliki
    performa tinggi pada data tabular dengan kombinasi fitur numerik dan kategorikal.
