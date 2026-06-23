@@ -113,7 +113,10 @@ if st.button("🔮 Prediksi Harga", type="primary", use_container_width=True):
     pred_log = model.predict(input_df)[0]
     pred_price = np.exp(pred_log)
 
-    st.success(f"### 💰 Estimasi Harga: Rp {pred_price:,.0f}")
+    EURO_TO_IDR = 17500  # kurs bisa disesuaikan
+    pred_price_idr = pred_price * EURO_TO_IDR
+    st.success(f"### 💰 Estimasi Harga: Rp {pred_price_idr:,.0f}")
+    st.caption(f"(Estimasi dalam Euro: €{pred_price:,.2f} × kurs Rp {EURO_TO_IDR:,})")
 
     with st.expander("Lihat data input yang digunakan model"):
         st.dataframe(input_df, use_container_width=True)
